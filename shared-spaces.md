@@ -4,7 +4,7 @@ a public presentation by: Dylan Smith, Kaitlyn Walker, Ian Harper and Adam Fine
 
 # Halifax 1910
 
-Up until the 1920s in North America, they were just called streets.
+Up until the 1920s in North America, they were just called streets:
 
 ![Halifax Saturday Market, ca. 1910](http://canadashadow.files.wordpress.com/2014/03/whalifax-market-n-s.jpg)
 
@@ -16,7 +16,7 @@ Begegnungszoen | Calle residencial | Gångfartsområde | Gatetun | Home zone | L
 
 # Plenty of Space For Everyone
 
-It's for *streets* not for *roads*. 
+Doesn't replace the highway. Shared Space is for **streets** not for **roads**. 
 
 ![Shared Space](http://upload.wikimedia.org/wikipedia/commons/5/55/New_Road%2C_Brighton_-_shared_space.jpg)
 
