@@ -14,9 +14,7 @@ Up until the 1920s in North America, they were just called streets.
 
 Begegnungszoen | Calle residencial | Gångfartsområde | Gatetun | Home zone | Living Street | Strefa zamieszkania | Verkehrsberuhigter Bereich | Wohnstraße | Woonerf | Zone de rencontre
 
-Halifax already has a *complete streets* policy in the regional plan; that means all street designs have to include all sustainable modes of transportation and all levels of mobility. The shared space idea we're presenting today is one form of complete streets where all the street users share the same space: pedestrians, cars, bikes, wheelchairs, skateboards. Speed limits are very low by design --- 30km/h or as low as 10km/h. There's no sign It's not a concept which works everyw
+notes:
+Street designs in Halifax already have to include all sustainable modes of transportation and all levels of mobility. 
 
-There is a continuum from the current conventional street which serves a range of functions which are physically separated or demarcated with paint. 
-
-Shared space is not a set of design guidelines it is a design concept which can be implemented in many different ways, and at many different scales. 
-
+The idea we're presenting today is a concept of street space where everyone shares equally: pedestrians, cars, bikes, wheelchairs, skateboards. There are few or no signs at all. Eye-contact and negotiation allows users in different modes to share the space, and speeds are low to make that communication possible --- 20km/h or even as low as 10km/h. 
