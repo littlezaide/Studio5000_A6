@@ -2,6 +2,9 @@
 
 Shared space puts all the users of the road on the same level, in the same space. It sounds like a revolutionary idea, but it is merely the way all streets were, around the world, before cars began to dominate the street in the 1930s.
 
-Where pedestrians, cyclists and cars mix, strip away the signs the curbs, the painted lines, and bring the speed limits for motor vehicles down to 25km/h or less. Reduce the numbers of signs to decrease the distractions. 
+Instead of taking each other for granted and relying on rules, painted lines and signs to keep us safe, humans in shared spaces using different modes of transit interact and negotiate their way through the space using eye contact and communication at low, safe speeds. Some of the tools of shared spaces include:
 
-Instead of taking each other for granted and relying on the rules to work, humans in shared spaces using different modes of transit interact and negotiate their way through the space with eye contact and communication at low, safe speeds. 
+remove curbs and painted lines
+bring the speed limits down to 25km/h or less; areas of very high pedestrian traffic could even be 10km/h
+reduce the number of signs to decrease distractions
+use bollards, and uneven street surfacing to indicate a unique space which requires attention
