@@ -8,7 +8,7 @@ Up until the 1920s in North America, they were just called streets:
 
 ![Halifax Saturday Market, ca. 1910](http://canadashadow.files.wordpress.com/2014/03/whalifax-market-n-s.jpg)
 
-# Names for the Same Thing
+# 'Lotta Names for the Same Thing
 
 ![Swedish road sign](http://upload.wikimedia.org/wikipedia/commons/3/37/Sweden_road_sign_E9.svg)
 
