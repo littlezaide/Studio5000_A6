@@ -8,15 +8,13 @@ Up until the 1920s in North America, they were just called streets:
 
 ![Halifax Saturday Market, ca. 1910](http://canadashadow.files.wordpress.com/2014/03/whalifax-market-n-s.jpg)
 
-# 'Lotta Names for the Same Thing
+# The Only Sign
 
 ![Swedish road sign](http://upload.wikimedia.org/wikipedia/commons/3/37/Sweden_road_sign_E9.svg)
 
-Begegnungszoen | Calle residencial | Gångfartsområde | Gatetun | Home zone | Living Street | Strefa zamieszkania | Verkehrsberuhigter Bereich | Wohnstraße | Woonerf | Zone de rencontre
+# Roads vs Streets
 
-# Plenty of Space For Everyone
-
-Doesn't replace the highway. Shared Space is for **streets** not for **roads**. 
+Roads are for getting around quickly by car and bus. Streets are for living in. Shared space is to make the *streets* better, not to replace *roads*.
 
 ![Shared Space](http://upload.wikimedia.org/wikipedia/commons/5/55/New_Road%2C_Brighton_-_shared_space.jpg)
 
