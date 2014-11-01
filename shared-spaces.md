@@ -1,4 +1,4 @@
-# Shared Space
+# Welcome to Shared Space
 
 a public presentation by: Dylan Smith, Kaitlyn Walker, Ian Harper and Adam Fine  
 
