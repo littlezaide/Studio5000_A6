@@ -1,5 +1,7 @@
 # Welcome to Shared Space
 
+![Swedish road sign](http://upload.wikimedia.org/wikipedia/commons/3/37/Sweden_road_sign_E9.svg)
+
 a public presentation by: Dylan Smith, Kaitlyn Walker, Ian Harper and Adam Fine  
 
 # Halifax 1910
@@ -7,10 +9,6 @@ a public presentation by: Dylan Smith, Kaitlyn Walker, Ian Harper and Adam Fine
 Up until the 1920s in North America, they were just called streets:
 
 ![Halifax Saturday Market, ca. 1910](http://canadashadow.files.wordpress.com/2014/03/whalifax-market-n-s.jpg)
-
-# The Only Sign
-
-![Swedish road sign](http://upload.wikimedia.org/wikipedia/commons/3/37/Sweden_road_sign_E9.svg)
 
 # Roads vs Streets
 
