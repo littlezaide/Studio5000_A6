@@ -12,7 +12,7 @@ Up until the 1920s in North America, they were just called streets:
 
 # Roads vs Streets
 
-Roads are for getting around quickly by car and bus.  
+Roads are for getting around on quickly, by car and bus.  
 Streets are for living in.  
 Shared space is to make the *streets* better, not to replace *roads*.  
 
